@@ -1,4 +1,3 @@
-## Maggie Dwyer
 Engineering student interested in robotics and autonomous systems.
 
 ## Projects
